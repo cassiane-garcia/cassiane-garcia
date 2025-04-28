@@ -1,5 +1,5 @@
-Hi, I’m @cassiane-garcia, I’m interested in be part of new projects and collaborate with people.
-I’m currently learning HTML and CSS, and I'm excited with the ideia of developing pages and stuff.
+Hi, I’m Cassi, I’m interested in be part of new projects and collaborate with people.
+I’m currently learning HTML and CSS, and I'm excited with the ideia of solve real problems.
 
 <!---
 cassiane-garcia/cassiane-garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
